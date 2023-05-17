@@ -1,0 +1,9 @@
+{
+	"version": "0.0.1",
+	"lisence": "MIT",
+	"description": "RedMC FAQ Entries",
+	"contributors": ["xerenahmed"],
+	"entries": [
+		["q-1", "a-1", "What is RedMC"]
+	]
+}
